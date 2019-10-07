@@ -18,8 +18,7 @@ A repo for cool games to play while resting from your mental breakdown.
 ## Strategy
 |Title|Developer|Metacritic|Link
 |---|---|---|---|
-|Age of Empires II: Definitive Edition|Ensemble Studios|92|[Link](https://www.ageofempires.com/games/aoeiide/)
-|
+|Age of Empires II: Definitive Edition|Ensemble Studios|92|[Link](https://www.ageofempires.com/games/aoeiide/)|
 
 
 
