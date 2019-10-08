@@ -27,3 +27,4 @@ A repo for cool games to play while resting from your mental breakdown.
 |---|---|---|---|
 |The Elder Scrolls V: Skyrim|Bethesda Game Studio|94|[Link](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/)|
 |Fallout: New Vegas|Obsidian Entertainment|84|[Link](https://store.steampowered.com/app/22380/Fallout_New_Vegas/)|
+|Dragon's Dogma: Dark Arisen|CAPCOM|81|[Link](https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/)|
