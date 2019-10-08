@@ -24,6 +24,7 @@ A repo for cool games to play while resting from your mental breakdown.
 |Batman Arkham Knight|Rocksteady Studios|70|[Link](https://store.steampowered.com/app/208650/Batman_Arkham_Knight/)|
 |Batman Arkham VR|Rocksteady Studios|74|[Link](https://store.steampowered.com/app/502820/Batman_Arkham_VR/)|
 |Destiny 2|Bungie|83|[Link](https://store.steampowered.com/app/1085660/Destiny_2/)|
+|The Evil Within 2|Bethesda Softworks|89|[Link](https://store.playstation.com/pt-br/product/UP1003-CUSA06166_00-PRJGDN0000000000)|
 
 ## Strategy
 |Title|Developer|Metacritic|Link
@@ -40,3 +41,4 @@ A repo for cool games to play while resting from your mental breakdown.
 |Title|Developer|Metacritic|Link|
 |---|---|---|---|
 |Sea of Thieves|Microsoft Studios|67|[Link](https://www.microsoft.com/en-nz/store/r/sea-of-thieves-anniversary-edition/9pcd5s0dmf5z?rtc=1&wa=wsignin1.0&activetab=pivot:overviewtab)|
+|Dragon's Dogma: Dark Arisen|CAPCOM|81|[Link](https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/)|
