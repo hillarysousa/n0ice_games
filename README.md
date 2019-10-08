@@ -16,6 +16,7 @@ A repo for cool games to play while resting from your mental breakdown.
 |God of War|Santa Monica Studio|94|[Link](https://store.playstation.com/pt-br/product/UP9000-CUSA07408_00-00000000GODOFWAR)|
 |Resident Evil 2 Remake|Capcom|91|[Link](https://store.playstation.com/pt-br/product/UP0102-CUSA09193_00-BH2R000000000001)|
 |Borderlands 2|Gearbox Software|89|[Link](https://store.steampowered.com/app/49520/Borderlands_2/)|
+|The Evil Within 2|Bethesda Softworks|89|[Link](https://store.playstation.com/pt-br/product/UP1003-CUSA06166_00-PRJGDN0000000000)|
 
 ## Strategy
 |Title|Developer|Metacritic|Link
