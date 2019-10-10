@@ -30,6 +30,7 @@ A repo for cool games to play while resting from your mental breakdown.
 |Title|Developer|Metacritic|Link
 |---|---|---|---|
 |Age of Empires II: Definitive Edition|Ensemble Studios|92|[Link](https://www.ageofempires.com/games/aoeiide/)|
+|StarCraft remastered|Blizzard|87|[Link](https://starcraft.com/en-us/)|
 
 ## Role-Playing
 |Title|Developer|Metacritic|Link|
