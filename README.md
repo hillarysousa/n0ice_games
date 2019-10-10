@@ -30,6 +30,7 @@ A repo for cool games to play while resting from your mental breakdown.
 |Title|Developer|Metacritic|Link
 |---|---|---|---|
 |Age of Empires II: Definitive Edition|Ensemble Studios|92|[Link](https://www.ageofempires.com/games/aoeiide/)|
+|Dota 2|Valve Corporation|90|[Link](http://www.dota2.com/)|
 
 ## Role-Playing
 |Title|Developer|Metacritic|Link|
