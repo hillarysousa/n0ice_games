@@ -43,3 +43,8 @@ A repo for cool games to play while resting from your mental breakdown.
 |---|---|---|---|
 |Sea of Thieves|Microsoft Studios|67|[Link](https://www.microsoft.com/en-nz/store/r/sea-of-thieves-anniversary-edition/9pcd5s0dmf5z?rtc=1&wa=wsignin1.0&activetab=pivot:overviewtab)|
 |Dragon's Dogma: Dark Arisen|CAPCOM|81|[Link](https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/)|
+
+## Fighting
+|Title|Developer|Metacritic|Link|
+|---|---|---|---|
+|Mortal Kombat 11|Warner Bros Interactive Entertainment|82|[Link](https://www.mortalkombat.com/)|
