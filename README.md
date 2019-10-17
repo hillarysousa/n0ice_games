@@ -2,13 +2,12 @@
 
 A repo for cool games to play while resting from your mental breakdown.
 
-| Summary           |
-| ----------------- |
-| [Action](#action) |
-
-|[Strategy](#strategy)
-|[Role-Playing](#role-playing)
-|[Adventure](#Adventure)
+| Summary                       |
+| ----------------------------- |
+| [Action](#action)             |
+| [Strategy](#strategy)         |
+| [Role-Playing](#role-playing) |
+| [Adventure](#Adventure)       |
 
 ## Action
 
