@@ -20,8 +20,8 @@ A repo for cool games to play while resting from your mental breakdown.
 | Batman Arkham City              | Rocksteady Studios  | 91         | [Link](https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/)    |
 | Resident Evil 2 Remake          | Capcom              | 91         | [Link](https://store.playstation.com/pt-br/product/UP0102-CUSA09193_00-BH2R000000000001)           |
 | Portal                          | Valve               | 90         | [Link](https://store.steampowered.com/app/400/Portal/)                                             |
-| The Evil Within 2               | Bethesda Softworks  | 89         | [Link](https://store.playstation.com/pt-br/product/UP1003-CUSA06166_00-PRJGDN0000000000)           |
 | Borderlands 2                   | Gearbox Software    | 89         | [Link](https://store.steampowered.com/app/49520/Borderlands_2/)                                    |
+| The Evil Within 2               | Bethesda Softworks  | 89         | [Link](https://store.playstation.com/pt-br/product/UP1003-CUSA06166_00-PRJGDN0000000000)           |
 | Spider Man                      | Insomniac Games     | 87         | [Link](https://store.playstation.com/pt-br/product/UP9000-CUSA02299_00-MARVELSSMGOTY000)           |
 | Destiny 2                       | Bungie              | 83         | [Link](https://store.steampowered.com/app/1085660/Destiny_2/)                                      |
 | Batman Arkham Origins           | WB Games Montreal   | 74         | [Link](https://store.steampowered.com/app/209000/Batman_Arkham_Origins/)                           |
