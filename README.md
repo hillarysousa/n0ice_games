@@ -49,3 +49,4 @@ A repo for cool games to play while resting from your mental breakdown.
 |Title|Developer|Metacritic|Link|
 |---|---|---|---|
 |Mortal Kombat 11|Warner Bros Interactive Entertainment|82|[Link](https://www.mortalkombat.com/)|
+|Dragon Ball Fighter Z|Bandai Namco Games|88|[Link](https://www.bandainamcoent.com/games/dragon-ball-fighterz)|
