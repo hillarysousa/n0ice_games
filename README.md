@@ -9,6 +9,7 @@ A repo for cool games to play while resting from your mental breakdown.
 |[Adventure](#Adventure)|
 |[Fighting](#Fighting)|
 |[Casual](#Casual)|
+|[Indie](#Indie)|
 
 ## Action
 |Title|Developer|Metacritic|Link
@@ -59,3 +60,8 @@ A repo for cool games to play while resting from your mental breakdown.
 |---|---|---|---|
 |Among Us|Innersloth|--|[Link](https://store.steampowered.com/app/945360/Among_Us/)|
 |Fall Guys|Mediatonic|80|[Link](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)
+
+## Indie
+|Title|Developer|Metacritic|Link|
+|---|---|---|---|
+|Graveyard Keeper|Lazy Bear Games|69|[Link](https://store.steampowered.com/app/599140/Graveyard_Keeper/)
