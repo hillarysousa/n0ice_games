@@ -58,3 +58,4 @@ A repo for cool games to play while resting from your mental breakdown.
 |Title|Developer|Metacritic|Link|
 |---|---|---|---|
 |Among Us|Innersloth|--|[Link](https://store.steampowered.com/app/945360/Among_Us/)|
+|Fall Guys|Mediatonic|80|[Link](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)
