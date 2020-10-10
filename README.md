@@ -4,9 +4,11 @@ A repo for cool games to play while resting from your mental breakdown.
 |Summary|
 |---|
 |[Action](#action)|
-|[Strategy](#strategy)
-|[Role-Playing](#role-playing)
-|[Adventure](#Adventure)
+|[Strategy](#strategy)|
+|[Role-Playing](#role-playing)|
+|[Adventure](#Adventure)|
+|[Fighting](#Fighting)|
+|[Casual](#Casual)|
 
 ## Action
 |Title|Developer|Metacritic|Link
@@ -51,3 +53,8 @@ A repo for cool games to play while resting from your mental breakdown.
 |---|---|---|---|
 |Mortal Kombat 11|Warner Bros Interactive Entertainment|82|[Link](https://www.mortalkombat.com/)|
 |Dragon Ball Fighter Z|Bandai Namco Games|88|[Link](https://www.bandainamcoent.com/games/dragon-ball-fighterz)|
+
+## Casual
+|Title|Developer|Metacritic|Link|
+|---|---|---|---|
+|Among Us|Innersloth|--|[Link](https://store.steampowered.com/app/945360/Among_Us/)|
