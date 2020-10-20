@@ -65,3 +65,4 @@ A repo for cool games to play while resting from your mental breakdown.
 |Title|Developer|Metacritic|Link|
 |---|---|---|---|
 |Graveyard Keeper|Lazy Bear Games|69|[Link](https://store.steampowered.com/app/599140/Graveyard_Keeper/)
+|Moonlighter|Digital Sun|74|[link](https://store.steampowered.com/app/606150/Moonlighter/)
