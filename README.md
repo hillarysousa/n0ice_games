@@ -56,6 +56,7 @@ A repo for cool games to play while resting from your mental breakdown.
 |---|---|---|---|
 |Mortal Kombat 11|Warner Bros Interactive Entertainment|82|[Link](https://www.mortalkombat.com/)|
 |Dragon Ball Fighter Z|Bandai Namco Games|88|[Link](https://www.bandainamcoent.com/games/dragon-ball-fighterz)|
+|Power Rangers: Battle for the Grid|nWay inc.|65|[Link](https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/)
 
 ## Casual
 |Title|Developer|Metacritic|Link|
