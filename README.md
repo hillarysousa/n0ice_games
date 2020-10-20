@@ -42,6 +42,7 @@ A repo for cool games to play while resting from your mental breakdown.
 |The Elder Scrolls V: Skyrim|Bethesda Game Studio|94|[Link](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/)|
 |The Witcher 3: Wild Hunt|CD Projekt RED|93|[Link](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt)|
 |Fallout: New Vegas|Obsidian Entertainment|84|[Link](https://store.steampowered.com/app/22380/Fallout_New_Vegas/)|
+|Genshin Impact| miHoYo|83|[Link](https://genshin.mihoyo.com/en)
 
 ## Adventure
 |Title|Developer|Metacritic|Link|
